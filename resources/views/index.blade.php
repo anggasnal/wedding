@@ -36,7 +36,7 @@
 				<div class="col-md-12 col-md-offset-0">
 					<ul class="timeline animate-box">
 						<li class="animate-box">
-							<div class="timeline-badge" style="background-image:url(asset/images/qq.jpg);"></div>
+							<div class="timeline-badge" style="background-image:url(asset/images/IMG-1593.jpg);"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h3 class="timeline-title">First We Meet</h3>
@@ -48,7 +48,7 @@
 							</div>
 						</li>
 						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge" style="background-image:url(asset/images/qq.jpg);"></div>
+							<div class="timeline-badge" style="background-image:url(asset/images/JPIM7126.jpg);"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h3 class="timeline-title">First Date</h3>
@@ -60,7 +60,7 @@
 							</div>
 						</li>
 						<li class="animate-box">
-							<div class="timeline-badge" style="background-image:url(asset/images/qq.jpg);"></div>
+							<div class="timeline-badge" style="background-image:url(asset/images/IMG_4065.png);"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
 									<h3 class="timeline-title">In A Relationship</h3>
