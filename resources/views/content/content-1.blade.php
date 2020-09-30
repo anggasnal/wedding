@@ -10,7 +10,7 @@
 			<div class="couple-wrap animate-box">
 				<div class="couple-half">
 					<div class="groom">
-						<img src="{{('asset/images/groom.jpg')}}" alt="groom" class="img-responsive">
+						<img src="{{('asset/images/IMG-2239.jpg')}}" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-groom">
 						<h3>Angga Hasnal Akhir</h3>
@@ -20,7 +20,7 @@
 				<p class="heart text-center"><i class="icon-heart2"></i></p>
 				<div class="couple-half">
 					<div class="bride">
-						<img src="{{('asset/images/bride.jpg')}}" alt="groom" class="img-responsive">
+						<img src="{{('asset/images/IMG-1823.jpg')}}" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-bride">
 						<h3>Defi Nurharyanti</h3>

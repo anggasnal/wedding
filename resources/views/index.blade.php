@@ -90,81 +90,81 @@
 				<div class="col-md-12">
 					<ul id="fh5co-gallery-list">
 						
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/qq.jpg); "> 
-						<a href="asset/images/qq.jpg">
-							<div class="case-studies-summary">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/IMG-1826.jpg); "> 
+						<a href="asset/images/IMG-1826.jpg">
+							<!-- <div class="case-studies-summary">
 								<span>14 Photos</span>
 								<h2>Two Glas of Juice</h2>
-							</div>
+							</div> -->
 						</a>
 					</li>
-					<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/qq.jpg); ">
-						<a href="asset/images/qq.jpg" class="color-2">
-							<div class="case-studies-summary">
+					<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/IMG_E4167.jpg); ">
+						<a href="asset/images/IMG_E4167.jpg" class="color-2">
+							<!-- <div class="case-studies-summary">
 								<span>30 Photos</span>
 								<h2>Timer starts now!</h2>
-							</div>
+							</div> -->
 						</a>
 					</li>
 
 
-					<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/qq.jpg); ">
-						<a href="asset/images/qq.jpg" class="color-3">
-							<div class="case-studies-summary">
+					<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/IMG-1825.jpg); ">
+						<a href="asset/images/IMG-1825.jpg" class="color-3">
+							<!-- <div class="case-studies-summary">
 								<span>90 Photos</span>
 								<h2>Beautiful sunset</h2>
-							</div>
+							</div> -->
 						</a>
 					</li>
-					<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/qq.jpg); ">
-						<a href="asset/images/qq.jpg" class="color-4">
-							<div class="case-studies-summary">
+					<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/IMG-2146.jpg); ">
+						<a href="asset/images/IMG-2146.jpg" class="color-4">
+							<!-- <div class="case-studies-summary">
 								<span>12 Photos</span>
 								<h2>Company's Conference Room</h2>
-							</div>
+							</div> -->
 						</a>
 					</li>
 
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/qq.jpg); ">
-							<a href="asset/images/qq.jpg" class="color-3">
-								<div class="case-studies-summary">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/IMG-2148.jpg); ">
+							<a href="asset/images/IMG-2148.jpg" class="color-3">
+								<!-- <div class="case-studies-summary">
 									<span>50 Photos</span>
 									<h2>Useful baskets</h2>
-								</div>
+								</div> -->
 							</a>
 						</li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/qq.jpg); ">
-							<a href="asset/images/qq.jpg" class="color-4">
-								<div class="case-studies-summary">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/IMG-2136.jpg); ">
+							<a href="asset/images/IMG-2136.jpg" class="color-4">
+								<!-- <div class="case-studies-summary">
 									<span>45 Photos</span>
 									<h2>Skater man in the road</h2>
-								</div>
+								</div> -->
 							</a>
 						</li>
 
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/qq.jpg); ">
-							<a href="asset/images/qq.jpg" class="color-4">
-								<div class="case-studies-summary">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/RJWQ9740.jpg); ">
+							<a href="asset/images/RJWQ9740.jpg" class="color-4">
+								<!-- <div class="case-studies-summary">
 									<span>35 Photos</span>
 									<h2>Two Glas of Juice</h2>
-								</div>
+								</div> -->
 							</a>
 						</li>
 
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/qq.jpg); "> 
-							<a href="asset/images/qq.jpg" class="color-5">
-								<div class="case-studies-summary">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/NOYX8486.jpg); "> 
+							<a href="asset/images/NOYX8486.jpg" class="color-5">
+								<!-- <div class="case-studies-summary">
 									<span>90 Photos</span>
 									<h2>Timer starts now!</h2>
-								</div>
+								</div> -->
 							</a>
 						</li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/qq.jpg); ">
-							<a href="asset/images/qq.jpg" class="color-6">
-								<div class="case-studies-summary">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(asset/images/SAMR8424.jpg); ">
+							<a href="asset/images/SAMR8424.jpg" class="color-6">
+								<!-- <div class="case-studies-summary">
 									<span>56 Photos</span>
 									<h2>Beautiful sunset</h2>
-								</div>
+								</div> -->
 							</a>
 						</li>
 					</ul>		
